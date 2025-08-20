@@ -19,3 +19,22 @@
 
 | <a href="https://github.com/JanaQoura/JanaQoura"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JanaQoura&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jana's github stats" /></a> | <a href="https://github.com/JanaQoura/JanaQoura"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanaQoura&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-F97A00?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-33A1E0?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFE100?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-9929EA?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-78C841?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-D25D5D?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React-6FE6FC?style=for-the-badge&logo=react&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-0F0E0E?style=for-the-badge&logo=github&logoColor=white" />
+
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-1C6EA4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</p>
