@@ -13,5 +13,5 @@
 
 | Project Name | Description | Live Demo | Repository |
 |--------------|-------------|-----------|------------|
-| ** Admin Dashboard** |Built a modern Admin Dashboard to manage courses and skills, combining a clean interface with responsive design for optimal performance on desktop and mobile.| [Live link](https://janaqoura.github.io/small-project-2-DEPI-Task/) | [Repo](https://github.com/JanaQoura/small-project-2-DEPI-Task) |
+| Admin Dashboard |Built a modern Admin Dashboard to manage courses and skills, combining a clean interface with responsive design for optimal performance on desktop and mobile.| [Live](https://janaqoura.github.io/small-project-2-DEPI-Task/) | [Repo](https://github.com/JanaQoura/small-project-2-DEPI-Task) |
 | **Responsive Homepage Design** |coded a Travel Website Home Page based on Figma prototype. Implemented responsive design principles for optimal viewing on both desktop and mobile devices.| [Live](https://janaqoura.github.io/small-project-1-DEPI-Task/) | [Repo](https://github.com/JanaQoura/small-project-1-DEPI-Task) |
