@@ -38,3 +38,13 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1C6EA4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </p>
+
+## 🗨 Let’s Connect
+
+<p align="center">
+  <a href="mailto:janaqoura@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0F0E0E?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jana-qoura-5b78b121a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-33A1E0?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
