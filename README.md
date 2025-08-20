@@ -6,5 +6,12 @@
 
 ## About me 
  I’m a Computer Science and AI student at Beni-Suef University, specializing in AI and Data Science, with a growing passion for frontend development. My journey began with problem-solving in C++ and evolved into a love for blending data-driven logic with sleek, user-centric design. Now, I build dynamic interfaces with React, JavaScript, HTML, and CSS where functionality meets artistry.
+<br />
+ - 😊 Fun Fact : My superpower? Making things look pretty AND functional .
 
-<p style="color:cyan"> - 😊 Fun Fact : My superpower? Making things look pretty AND functional . </p>
+ ## 💻 Featured Projects :
+
+| Project Name | Description | Live Demo | Repository |
+|--------------|-------------|-----------|------------|
+| ** Admin Dashboard** |Built a modern Admin Dashboard to manage courses and skills, combining a clean interface with responsive design for optimal performance on desktop and mobile.| [Live link](https://janaqoura.github.io/small-project-2-DEPI-Task/) | [Repo](https://github.com/JanaQoura/small-project-2-DEPI-Task) |
+| **Responsive Homepage Design** |coded a Travel Website Home Page based on Figma prototype. Implemented responsive design principles for optimal viewing on both desktop and mobile devices.| [Live](https://janaqoura.github.io/small-project-1-DEPI-Task/) | [Repo](https://github.com/JanaQoura/small-project-1-DEPI-Task) |
