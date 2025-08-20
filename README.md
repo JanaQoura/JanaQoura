@@ -6,3 +6,5 @@
 
 ## About me 
  I’m a Computer Science and AI student at Beni-Suef University, specializing in AI and Data Science, with a growing passion for frontend development. My journey began with problem-solving in C++ and evolved into a love for blending data-driven logic with sleek, user-centric design. Now, I build dynamic interfaces with React, JavaScript, HTML, and CSS where functionality meets artistry.
+
+ - 😊 Fun Fact : My superpower? Making things look pretty AND functional .
