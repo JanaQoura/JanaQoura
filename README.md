@@ -1,6 +1,6 @@
 # Hi, I'm Jana 👋
 <br /> <br /> 
-<p align="center"><a href="https://www.canva.com/design/DAGwK3nATQs/WpJwE6qTiCj6aWvWXwGUrg/edit?utm_content=DAGwK3nATQs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="/img/3.PNG" /></a></p>
+<p align="center"><a href="https://drive.google.com/file/d/14MH85ocXJuppRWsouW_0Dv5DxT7zWBOI/view?usp=sharing"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="/img/3.PNG" /></a></p>
 
 <br />
 
