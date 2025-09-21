@@ -15,7 +15,6 @@
 |--------------|-------------|-----------|------------|
 | Admin Dashboard |Built a modern Admin Dashboard to manage courses and skills, combining a clean interface with responsive design for optimal performance on desktop and mobile.| [Live](https://janaqoura.github.io/small-project-2-DEPI-Task/) | [Repo](https://github.com/JanaQoura/small-project-2-DEPI-Task) |
 | Responsive Homepage Design |coded a Travel Website Home Page based on Figma prototype. Implemented responsive design principles for optimal viewing on both desktop and mobile devices.| [Live](https://janaqoura.github.io/small-project-1-DEPI-Task/) | [Repo](https://github.com/JanaQoura/small-project-1-DEPI-Task) |
-
 | CRUD Model |Created a complete CRUD application with full data management functionality. Implemented reliable database operations, form handling, and user interface interactions with seamless performance.| [Live](https://janaqoura.github.io/small-project-4-DEPI-Task/) | [Repo](https://github.com/JanaQoura/small-project-4-DEPI-Task) |
 
 
