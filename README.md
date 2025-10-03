@@ -1,6 +1,6 @@
 # Hi, I'm Jana 👋
 <br /> <br /> 
-<p align="center"><a href="https://drive.google.com/file/d/1gmyT6uAr90LaW0X9MEcLrcTi9UkkW1pZ/view?usp=sharing"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="/img/3.PNG" /></a></p>
+<p align="center"><a href="https://drive.google.com/file/d/1K1Hk-enb0NhxOSFlGcr1gGQ96Yjb0XPM/view?usp=sharing"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="/img/3.PNG" /></a></p>
 
 <br />
 
